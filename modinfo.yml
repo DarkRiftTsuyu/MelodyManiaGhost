@@ -1,0 +1,9 @@
+name: Melody Mania Ghost
+version: 1.0.0
+description: |
+  Mario Kart-style personal-best ghost for singing.
+  Records the game's own pitch analysis (BeatAnalyzedEvent) and your microphone,
+  saves your personal best per song, and shows it as a pitch ghost
+  with a live score race while you sing.
+authors:
+  - DarkRift
